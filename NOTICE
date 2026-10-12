@@ -1,0 +1,9 @@
+wx-cli-setup-skill
+Copyright 2026 archlizheng
+
+This project documents integration with jackwener/wx-cli-again, Apache-2.0.
+Upstream: https://github.com/jackwener/wx-cli-again
+Tested baseline: 077a54cbfe679bda963cd038d8440422907fc797 (wx 0.6.3).
+It is an independent setup skill, not an official WeChat or upstream release.
+Some command and troubleshooting procedures are adapted from that project's documentation.
+No WeChat application, encrypted keys, databases, or user messages are distributed.

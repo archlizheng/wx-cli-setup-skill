@@ -1,0 +1,4 @@
+interface:
+  display_name: "微信 wx-cli 配置与定时任务"
+  short_description: "帮助 Agent 安装、排查并验证本机微信查询，配置受控的定时任务"
+  default_prompt: "使用 $wx-cli-setup 帮我配置本机微信查询，并创建指定范围的定时摘要任务。"
